@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+models/yield_model.joblib
+output/
+.venv/
+env/
+venv/
